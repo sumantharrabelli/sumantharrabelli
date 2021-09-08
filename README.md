@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on software development
 - 🤔 I’m looking for help with learning something new
 - 💬 Ask me about Anything 
-- 📫 How to reach me: [gmail](arrabellisumanth85@gmail.com)
+- 📫 How to reach me: [gmail](mailto:arrabellisumanth85@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Baby flamingos are born grey, not pink
 
